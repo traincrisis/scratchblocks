@@ -229,6 +229,6 @@ module.exports = {
   //   '': 'MOTION_TURNLEFT',
   //   '': 'MOTION_TURNRIGHT',
   //   '': 'EVENT_WHENFLAGCLICKED',
-  //   '': 'end',
+  //   '': 'end', you can create your own project!
   // },
 }
